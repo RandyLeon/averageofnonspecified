@@ -18,7 +18,7 @@ namespace AverageNonSpecified
             double totalNumbers = 0;
 
 
-            while (value <= 100 && value >= 0 && totalNumbers < 10)
+            while (value <= 100 && value >= 0)
             {
 
                 sum += value;
